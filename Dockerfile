@@ -1,6 +1,5 @@
 ##########################################################
-# Dockerfile which builds a base image with oracle-java8
-# and maven.
+# Dockerfile which builds a base image with oracle-java8.
 ##########################################################
 FROM dockerfile/java:oracle-java8
 
