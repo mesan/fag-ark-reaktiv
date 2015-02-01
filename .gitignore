@@ -1,4 +1,10 @@
 *.class
+target/
+
+# Eclipse IDE #
+.project
+.classpath
+.settings/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
